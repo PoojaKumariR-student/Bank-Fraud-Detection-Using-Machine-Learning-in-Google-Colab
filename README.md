@@ -26,7 +26,7 @@ This project uses advanced AI and Machine Learning technologies such as:
 → Explain model predictions using SHAP.
 
 
-TECHNOLOGIES USED
+♦️TECHNOLOGIES USED
 
  •Python	
 

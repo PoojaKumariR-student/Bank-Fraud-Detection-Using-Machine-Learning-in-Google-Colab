@@ -13,6 +13,7 @@ This project uses advanced AI and Machine Learning technologies such as:
 • SHAP (SHapley Additive exPlanations) for model interpretability
 
 
+-------
 📍OBJECTIVES
 
 → Detect fraudulent banking transactions using AI techniques.
@@ -26,6 +27,7 @@ This project uses advanced AI and Machine Learning technologies such as:
 → Explain model predictions using SHAP.
 
 
+---------
 ♦️TECHNOLOGIES USED
 
  •Python	
@@ -46,10 +48,14 @@ This project uses advanced AI and Machine Learning technologies such as:
 
 • SHAP
 
+
+--------
 🔗 DATASET
 
 Used from KAGGLE 
 
+
+-------
 📌CONCLUSION
 
 This project demonstrates how Artificial Intelligence can improve bank fraud detection systems. XGBoost provides strong classification performance, Autoencoders help detect unusual transaction behavior and SHAP increases transparency thus improves fraud detection in imbalanced datasets.

@@ -27,6 +27,14 @@ This project uses advanced AI and Machine Learning technologies such as:
 → Explain model predictions using SHAP.
 
 
+--------
+🔗 LIVE LINK OF THE PROJECT
+
+Software Used : Google Colab Notebook
+
+Link : https://colab.research.google.com/drive/1ZNKjok8jN3F_z3QNOubsy4Xd-NBGDFw-?usp=sharing
+
+
 ---------
 ♦️TECHNOLOGIES USED
 
